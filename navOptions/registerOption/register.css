@@ -10,7 +10,7 @@ nav{
     background-color: #e9e9e9 ;
     height: 70px;
     display: grid;
-    grid-template-columns: 5fr 1fr 1fr;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
     margin-bottom: 200px;
 }
 

@@ -10,7 +10,7 @@ nav{
     background-color: #e9e9e9 ;
     height: 70px;
     display: grid;
-    grid-template-columns: 5fr 1fr 1fr;
+    grid-template-columns: 5fr 1fr 1fr 1fr;
 }
 
 nav a{
@@ -111,7 +111,7 @@ main img{
     }
 
     nav{
-        grid-template-columns: 1fr 2fr 1fr;
+        grid-template-columns: 1fr 2fr 1fr 1fr;
         text-align: center;
         
     }
